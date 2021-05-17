@@ -13,5 +13,7 @@ A collection of Pseudo-random Number Sampling methods
     - [Independent methods](continuous/independent)
         - [Inverse sampling](continuous/independent/inverse_sampling)
         - [Rejection sampling](continuous/independent/rejection_sampling)
+    - [Dependent methods](continuous/dependent)
+        - [Metropolis-Hasting](continuous/dependent/metropolis_hasting)
     - [Normal distribution](continuous/normal_distribution)
         - [Box-Muller transform](continuous/normal_distribution/box_muller_transform)
